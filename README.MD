@@ -12,7 +12,7 @@ npm install
 
 npm start
 
-# 打开浏览器访问 http://localhost:8080
+# 打开浏览器访问 http://localhost:3000
 
 # 服务端
 
@@ -24,6 +24,6 @@ pip install -r requirements.txt
 
 # 启动服务端
 
-py main.py
+python main.py
 
 ## 本地使用 python3.12.2
